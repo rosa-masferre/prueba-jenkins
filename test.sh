@@ -3,8 +3,6 @@
 echo "prueba"
 
 
-echo "linea2"
-
 
 
 
